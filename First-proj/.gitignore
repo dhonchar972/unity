@@ -1,0 +1,15 @@
+build/
+UnityPlayerStub/
+
+Library/
+Logs/
+Packages/
+Temp/
+UserSettings/
+**.cpp
+**.h
+**.rc
+**.ico
+**.manifest
+**.vcxproj
+**.vcxitems
