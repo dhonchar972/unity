@@ -1,0 +1,17 @@
+S - scale
+S + X, Y, Z
+G - vertex move(двигаем угол)
+G + X, Y, Z
+R - rotation(крутить)
+F - заполнить
+Vertex - угол, Edge - ребро, Face - сторона
+E - extrude(тянуть)
+Ctrl + R - добавить ребра, крути колесо
+Shift + A - добавить обьект
+Shift + C - default position
+Numpad - сменить угол обзора(ось)
+Tab - edit mode
+
+File -> Export -> FBX (.fbx) -> Mesh+Other
+RMC -> Import New Asset -> Select some .fbx
+
